@@ -1107,7 +1107,7 @@
             "timing": "Open 24 hours",
             "ratings": 4.5,
             "payment_mode": "Cash, Credit Card, UPI",
-            "logo_url": "/images/ENOCLogo.png",
+            "logo_url": "/images/enoc.png",
             "products": [
               {
                 "product_name": "Diesel Premium",
@@ -1149,7 +1149,7 @@
             "timing": "Open 24 hours",
             "ratings": 4.7,
             "payment_mode": "Cash, Credit Card, UPI",
-            "logo_url": "/images/ADNOCLogo.png",
+            "logo_url": "/images/adnoc.jpeg",
             "products": [
               {
                 "product_name": "Diesel Premium",
@@ -1191,7 +1191,7 @@
             "timing": "Open 24 hours",
             "ratings": 4.4,
             "payment_mode": "Cash, Credit Card, UPI",
-            "logo_url": "/images/EmaratLogo.png",
+            "logo_url": "/images/emarat.png",
             "products": [
               {
                 "product_name": "Diesel Premium",
@@ -1233,7 +1233,7 @@
             "timing": "Open 24 hours",
             "ratings": 4.6,
             "payment_mode": "Cash, Credit Card, UPI",
-            "logo_url": "/images/EPPCOLogo.png",
+            "logo_url": "/images/eppco.jpeg",
             "products": [
               {
                 "product_name": "Diesel Premium",
@@ -1275,7 +1275,7 @@
             "timing": "Open 24 hours",
             "ratings": 4.3,
             "payment_mode": "Cash, Credit Card, UPI",
-            "logo_url": "/images/ShellLogo.png",
+            "logo_url": "/svgs/shellLogo.svg",
             "products": [
               {
                 "product_name": "Diesel Premium",
