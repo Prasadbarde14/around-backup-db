@@ -4089,7 +4089,165 @@
             }
         ]
     },
-    "around_eventsData": [
+    "around_eventsData": [{
+        "icon_url": "/svgs/NightClub.svg",
+        "event_price": 49.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.8,
+        "event_end_date": "2024-08-15",
+        "language": "en",
+        "seats_available": 150,
+        "zip_code": "RAK123",
+        "event_id": 101,
+        "phone": "(971) 50-123-4567",
+        "street": "Al Marjan Island",
+        "name": "Desert Night Music Festival",
+        "event_start_time": "21:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-08-14"
+        
+      },
+      {
+        "icon_url": "/svgs/MicrophoneStage.svg",
+        "event_price": 29.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.6,
+        "event_end_date": "2024-10-05",
+        "language": "en",
+        "seats_available": 200,
+        "zip_code": "RAK234",
+        "event_id": 102,
+        "phone": "(971) 52-234-5678",
+        "street": "Corniche Al Qawasim",
+        "name": "RAK Stand-up Comedy Night",
+        "event_start_time": "19:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-10-03"
+        
+      },
+      {
+        "icon_url": "/svgs/HatRetro.svg",
+        "event_price": 15.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.7,
+        "event_end_date": "2024-11-20",
+        "language": "en",
+        "seats_available": 300,
+        "zip_code": "RAK345",
+        "event_id": 103,
+        "phone": "(971) 56-345-6789",
+        "street": "RAK Stadium",
+        "name": "Retro Fashion & Culture Expo",
+        "event_start_time": "11:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-11-19"
+        
+      },
+      {
+        "icon_url": "/svgs/CoffeeToGo.svg",
+        "event_price": 99.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.9,
+        "event_end_date": "2024-07-28",
+        "language": "en",
+        "seats_available": 500,
+        "zip_code": "RAK456",
+        "event_id": 104,
+        "phone": "(971) 58-456-7890",
+        "street": "RAK Convention Center",
+        "name": "Business Networking Coffee Meet",
+        "event_start_time": "09:30",
+        "state_code": "RAK",
+        "event_start_date": "2024-07-27"
+        
+      },
+      {
+        "icon_url": "/svgs/MusicConcert.svg",
+        "event_price": 79.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.8,
+        "event_end_date": "2024-12-10",
+        "language": "en",
+        "seats_available": 80,
+        "zip_code": "RAK567",
+        "event_id": 105,
+        "phone": "(971) 54-567-8901",
+        "street": "Jebel Jais Mountain",
+        "name": "Jebel Jais Live Concert",
+        "event_start_time": "20:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-12-09"
+        
+      },
+      {
+        "icon_url": "/svgs/Pornography.svg",
+        "event_price": 39.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.6,
+        "event_end_date": "2024-09-12",
+        "language": "en",
+        "seats_available": 100,
+        "zip_code": "RAK678",
+        "event_id": 106,
+        "phone": "(971) 53-678-9012",
+        "street": "Hilton Beach Resort",
+        "name": "RAK Adult Film & Media Expo",
+        "event_start_time": "17:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-09-10"
+        
+      },
+      {
+        "icon_url": "/svgs/CardGame.svg",
+        "event_price": 25.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.7,
+        "event_end_date": "2024-10-30",
+        "language": "en",
+        "seats_available": 250,
+        "zip_code": "RAK789",
+        "event_id": 107,
+        "phone": "(971) 52-789-0123",
+        "street": "RAK Heritage Village",
+        "name": "RAK Poker Tournament",
+        "event_start_time": "18:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-10-28"
+        
+      },
+      {
+        "icon_url": "/svgs/CoffeeToGo.svg",
+        "event_price": 119.99,
+        "city": "Ras Al Khaimah",
+        "latitude": 25.8007,
+        "longitude": 55.9762,
+        "rating": 4.9,
+        "event_end_date": "2024-11-18",
+        "language": "en",
+        "seats_available": 350,
+        "zip_code": "RAK890",
+        "event_id": 108,
+        "phone": "(971) 50-890-1234",
+        "street": "Al Hamra Convention Center",
+        "name": "RAK Tech Coffee & Innovation Meetup",
+        "event_start_time": "10:00",
+        "state_code": "RAK",
+        "event_start_date": "2024-11-17"        
+      },
         {
             "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 19.99,
@@ -24989,7 +25147,7 @@
     },
     "around_pharmacyData": [
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/lifepharmacyLogo.jpeg",
             "store_name": "Life Pharmacy - Al Muntasir Road",
             "brand_name": "Life Pharmacy",
             "open_time": "00:00",
@@ -25020,7 +25178,7 @@
             "email": "contact@lifepharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/asterpharmacyLogo.png",
             "store_name": "Aster Pharmacy - Al Nakheel",
             "brand_name": "Aster Pharmacy",
             "open_time": "00:00",
@@ -25051,7 +25209,7 @@
             "email": "info@asterpharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/binsinapharmacyLogo.png",
             "store_name": "BinSina Pharmacy - Manar Mall",
             "brand_name": "BinSina Pharmacy",
             "open_time": "10:00",
@@ -25082,7 +25240,7 @@
             "email": "support@binsinapharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/almanarapharmacyLogo.png",
             "store_name": "Al Manara Pharmacy - Khuzam Road",
             "brand_name": "Al Manara Pharmacy",
             "open_time": "00:00",
@@ -25113,7 +25271,7 @@
             "email": "contact@almanarapharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/superpharmacyLogo.png",
             "store_name": "Super Care Pharmacy - Al Dhait South",
             "brand_name": "Super Care Pharmacy",
             "open_time": "09:00",
@@ -25144,7 +25302,7 @@
             "email": "info@supercarepharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/medicinepharmacyLogo.png",
             "store_name": "Medicine Shoppe - Al Hamra Mall",
             "brand_name": "Medicine Shoppe",
             "open_time": "10:00",
@@ -25175,7 +25333,7 @@
             "email": "support@medshoppe.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/wellcarepharmacyLogo.png",
             "store_name": "Wellcare Pharmacy - Mina Al Arab",
             "brand_name": "Wellcare Pharmacy",
             "open_time": "08:00",
@@ -25206,7 +25364,7 @@
             "email": "info@wellcarepharmacy.com"
         },
         {
-            "icon_url": "/images/pharmacyLogo.png",
+            "icon_url": "/images/alnoorpharmacyLogo.jpeg",
             "store_name": "Al Noor Pharmacy - Al Nakheel",
             "brand_name": "Al Noor Pharmacy",
             "open_time": "09:00",
