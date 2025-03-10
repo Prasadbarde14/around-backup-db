@@ -27791,7 +27791,9 @@
     ],
     "Airports": [
         {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Ras Al Khaimah International Airport",
             "iata_code": "RKT",
             "icao_code": "OMRK",
@@ -27814,7 +27816,9 @@
             "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
           },
           {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Sharjah International Airport",
             "iata_code": "SHJ",
             "icao_code": "OMSJ",
@@ -27837,7 +27841,9 @@
             "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
           },
           {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Dubai International Airport",
             "iata_code": "DXB",
             "icao_code": "OMDB",
@@ -27860,7 +27866,9 @@
             "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
           },
           {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Al Maktoum International Airport",
             "iata_code": "DWC",
             "icao_code": "OMDW",
@@ -27883,7 +27891,9 @@
             "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
           },
           {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Fujairah International Airport",
             "iata_code": "FJR",
             "icao_code": "OMFJ",
@@ -27906,7 +27916,9 @@
             "transportation_options": ["Taxi", "Bus", "Car Rental"]
           },
           {
-            "icon_url": "/svgs/Airports.svg",
+            "type": "Aircraft",
+            "aircraft_type": "International Airport",
+            "icon_url": "/images/airportLogo.png",
             "airport_name": "Abu Dhabi International Airport",
             "iata_code": "AUH",
             "icao_code": "OMAA",
