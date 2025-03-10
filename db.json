@@ -2,6 +2,384 @@
     "around_fuelData": {
         "en": [
             {
+                "name": "ENOC Petrol Station",
+                "address": "E44 Dubai-Hatta Rd, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 3662",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.699777,
+                "longitude": 55.933199,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.5,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/enoc.png",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.35,
+                    "credit_card_price": 2.40,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.65,
+                    "credit_card_price": 2.70,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ENOC - 1444",
+                "address": "15/2, Emirates Road, Suhailah, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 7 233 6514",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.699777,
+                "longitude": 55.933199,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.5,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/enoc.png",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.35,
+                    "credit_card_price": 2.40,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.65,
+                    "credit_card_price": 2.70,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ENOC Petrol Station - 1401- AL Dheeb",
+                "address": "Shk Mohd Bin Salem Rd, E 11, Opp RAK Ceramic, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 3662",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.699777,
+                "longitude": 55.933199,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.5,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/enoc.png",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.35,
+                    "credit_card_price": 2.40,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.65,
+                    "credit_card_price": 2.70,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ADNOC Service Station Al Hadeeqa (826)",
+                "address": "Al Hadeeqa, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 300",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.78724,
+                "longitude": 55.96375,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.6,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/adnoc.jpeg",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.45,
+                    "credit_card_price": 2.50,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.30,
+                    "credit_card_price": 2.35,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.60,
+                    "credit_card_price": 2.65,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.45,
+                    "credit_card_price": 2.50,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ADNOC Petrol Station Humaid 465",
+                "address": "9, 7E Street, Al Qussaidat, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 300",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.78724,
+                "longitude":55.96375,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.5,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/adnoc.jpeg",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.48,
+                    "credit_card_price": 2.53,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.32,
+                    "credit_card_price": 2.37,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.63,
+                    "credit_card_price": 2.68,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.48,
+                    "credit_card_price": 2.53,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "EPPCO Petrol Station Al Qusaidat",
+                "address": "Sheikh Mohammed Bin Salem Road, Al Qusaidat, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 7 233 6514",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.7708,
+                "longitude": 55.9761,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.4,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/eppco.jpeg",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.48,
+                    "credit_card_price": 2.53,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.32,
+                    "credit_card_price": 2.37,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.63,
+                    "credit_card_price": 2.68,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.48,
+                    "credit_card_price": 2.53,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "EPPCO Petrol Station Al Nakheel",
+                "address": "Al Nakheel Road, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 7 221 9542",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.7725,
+                "longitude": 55.9652,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.3,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/eppco.jpeg",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.49,
+                    "credit_card_price": 2.54,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.33,
+                    "credit_card_price": 2.38,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.64,
+                    "credit_card_price": 2.69,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.49,
+                    "credit_card_price": 2.54,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ENOC Petrol Station - Al Muntasir",
+                "address": "Al Muntasir Road, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 3662",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.7831,
+                "longitude": 55.9703,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.5,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/enoc.png",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.35,
+                    "credit_card_price": 2.40,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.65,
+                    "credit_card_price": 2.70,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.50,
+                    "credit_card_price": 2.55,
+                    "grade": 95
+                  }
+                ]
+              },
+              {
+                "name": "ADNOC Service Station Khuzam",
+                "address": "Khuzam Road, Ras Al Khaimah, UAE",
+                "state": "Ras Al Khaimah",
+                "country": "United Arab Emirates",
+                "phone": "+971 800 300",
+                "hours": "24",
+                "comment": 20,
+                "latitude": 25.7816,
+                "longitude": 55.9901,
+                "open": true,
+                "timing": "Open 24 hours",
+                "ratings": 4.6,
+                "payment_mode": "Cash, Credit Card",
+                "logo_url": "/images/adnoc.jpeg",
+                "products": [
+                  {
+                    "product_name": "Diesel Premium",
+                    "cash_price": 2.45,
+                    "credit_card_price": 2.50,
+                    "grade": "P"
+                  },
+                  {
+                    "product_name": "Diesel Regular",
+                    "cash_price": 2.30,
+                    "credit_card_price": 2.35,
+                    "grade": "R"
+                  },
+                  {
+                    "product_name": "Petrol Premium (Super 98)",
+                    "cash_price": 2.60,
+                    "credit_card_price": 2.65,
+                    "grade": 98
+                  },
+                  {
+                    "product_name": "Petrol Regular (Special 95)",
+                    "cash_price": 2.45,
+                    "credit_card_price": 2.50,
+                    "grade": 95
+                  }
+                ]
+              },
+            {
                 "name": "Fastrip",
                 "address": "2200, Niles St Bakersfield, CA-93306",
                 "state": "California",
@@ -4090,6 +4468,86 @@
         ]
     },
     "around_eventsData": [
+        {
+            "icon_url": "/images/iftar.png",
+            "event_price": 0.00,
+            "city": "Ras Al Khaimah",
+            "latitude": 25.7894,
+            "longitude": 55.9432,
+            "rating": 4.9,
+            "event_end_date": "2025-04-10",
+            "language": "en",
+            "seats_available": 300,
+            "zip_code": "RAK101",
+            "event_id": 201,
+            "phone": "(971) 50-567-8901",
+            "street": "Al Qawasim Corniche",
+            "name": "Ramadan Cultural Nights",
+            "event_start_time": "19:00",
+            "state_code": "RAK",
+            "event_start_date": "2025-03-15",
+            "region": "RAK"
+          },
+          {
+            "icon_url": "/images/iftar.png",
+            "event_price": 149.00,
+            "city": "Ras Al Khaimah",
+            "latitude": 25.9475,
+            "longitude": 56.1832,
+            "rating": 4.8,
+            "event_end_date": "2025-04-09",
+            "language": "en",
+            "seats_available": 100,
+            "zip_code": "RAK202",
+            "event_id": 202,
+            "phone": "(971) 56-654-7890",
+            "street": "Jebel Jais Viewing Deck Park",
+            "name": "Ramadan Iftar Under the Stars",
+            "event_start_time": "18:00",
+            "state_code": "RAK",
+            "event_start_date": "2025-03-17",
+            "region": "RAK"
+          },
+          {
+            "icon_url": "/images/sports.png",
+            "event_price": 50.00,
+            "city": "Ras Al Khaimah",
+            "latitude": 25.8007,
+            "longitude": 55.9762,
+            "rating": 4.7,
+            "event_end_date": "2025-03-30",
+            "language": "en",
+            "seats_available": 200,
+            "zip_code": "RAK303",
+            "event_id": 203,
+            "phone": "(971) 55-432-1234",
+            "street": "Al Marjan Island",
+            "name": "Ramadan Charity Run",
+            "event_start_time": "16:00",
+            "state_code": "RAK",
+            "event_start_date": "2025-03-30",
+            "region": "RAK"
+          },
+          {
+            "icon_url": "/images/shopping-cart.png",
+            "event_price": 0.00,
+            "city": "Ras Al Khaimah",
+            "latitude": 25.7699,
+            "longitude": 55.9804,
+            "rating": 4.8,
+            "event_end_date": "2025-04-08",
+            "language": "en",
+            "seats_available": 500,
+            "zip_code": "RAK404",
+            "event_id": 204,
+            "phone": "(971) 52-345-6789",
+            "street": "Manar Mall Outdoor Plaza",
+            "name": "Ramadan Night Bazaar",
+            "event_start_time": "19:00",
+            "state_code": "RAK",
+            "event_start_date": "2025-03-18",
+            "region": "RAK"
+          },
         {
             "icon_url": "/svgs/NightClub.svg",
             "event_price": 49.99,
@@ -27273,165 +27731,143 @@
     ],
     "Airports": [
         {
-            "staff_id": "S001",
-            "first_name": "John",
-            "last_name": "Doe",
-            "hire_date": "2018-06-15",
-            "type": "Staff",
-            "employment_status": "Active",
-            "department": "Ground Operations",
-            "purge_id": "P001",
-            "latitude": 51.443104,
-            "longitude": -0.473506
-        },
-        {
-            "staff_id": "S002",
-            "first_name": "Jane",
-            "last_name": "Smith",
-            "hire_date": "2020-03-21",
-            "type": "Staff",
-            "employment_status": "On Leave",
-            "department": "Cargo Handling",
-            "purge_id": "P002",
-            "latitude": 51.503052,
-            "longitude": -0.494349
-        },
-        {
-            "staff_id": "S003",
-            "first_name": "Emily",
-            "last_name": "Clark",
-            "hire_date": "2019-08-09",
-            "type": "Staff",
-            "employment_status": "Active",
-            "department": "Passenger Services",
-            "purge_id": "P003",
-            "latitude": 51.463104,
-            "longitude": -0.453506
-        },
-        {
-            "staff_id": "S004",
-            "first_name": "Mark",
-            "last_name": "Johnson",
-            "hire_date": "2017-11-01",
-            "type": "Staff",
-            "employment_status": "Retired",
-            "department": "Security",
-            "purge_id": "P004",
-            "latitude": 51.523052,
-            "longitude": -0.474349
-        },
-        {
-            "staff_id": "S005",
-            "first_name": "Lucy",
-            "last_name": "Adams",
-            "hire_date": "2021-01-15",
-            "type": "Staff",
-            "employment_status": "Active",
-            "department": "Maintenance",
-            "purge_id": "P005",
-            "latitude": 51.483104,
-            "longitude": -0.463506
-        },
-        {
-            "baggage_handling_id": "BHS001",
-            "service_type": "Manual",
-            "daily_capacity": 500,
-            "efficiency_rating": 95.5,
-            "service_id": "SRV001",
-            "purge_id": "P006",
-            "type": "Baggage",
-            "latitude": 51.465273,
-            "longitude": -0.450123
-        },
-        {
-            "baggage_handling_id": "BHS002",
-            "service_type": "Automated",
-            "daily_capacity": 700,
-            "efficiency_rating": 89.2,
-            "service_id": "SRV002",
-            "purge_id": "P007",
-            "type": "Baggage",
-            "latitude": 51.472015,
-            "longitude": -0.480534
-        },
-        {
-            "baggage_handling_id": "BHS003",
-            "service_type": "Manual",
-            "daily_capacity": 600,
-            "efficiency_rating": 92.4,
-            "service_id": "SRV003",
-            "purge_id": "P008",
-            "type": "Baggage",
-            "latitude": 51.475273,
-            "longitude": -0.455123
-        },
-        {
-            "baggage_handling_id": "BHS004",
-            "service_type": "Automated",
-            "daily_capacity": 850,
-            "efficiency_rating": 90.7,
-            "service_id": "SRV004",
-            "purge_id": "P009",
-            "type": "Baggage",
-            "latitude": 51.482015,
-            "longitude": -0.485534
-        },
-        {
-            "baggage_handling_id": "BHS005",
-            "service_type": "Manual",
-            "daily_capacity": 550,
-            "efficiency_rating": 87.9,
-            "service_id": "SRV005",
-            "purge_id": "P010",
-            "type": "Baggage",
-            "latitude": 51.475273,
-            "longitude": -0.460123
-        },
-        {
-            "aircraft_id": "AC001",
-            "purge_id": "P011",
-            "aircraft_type": "Boeing 737",
-            "aircraft_capacity": 180,
-            "type": "Aircraft",
-            "latitude": 51.443104,
-            "longitude": -0.473506
-        },
-        {
-            "aircraft_id": "AC002",
-            "purge_id": "P012",
-            "aircraft_type": "Airbus A320",
-            "aircraft_capacity": 150,
-            "type": "Aircraft",
-            "latitude": 51.503052,
-            "longitude": -0.494349
-        },
-        {
-            "aircraft_id": "AC003",
-            "purge_id": "P013",
-            "aircraft_type": "Boeing 747",
-            "aircraft_capacity": 416,
-            "type": "Aircraft",
-            "latitude": 51.453104,
-            "longitude": -0.483506
-        },
-        {
-            "aircraft_id": "AC004",
-            "purge_id": "P014",
-            "aircraft_type": "Airbus A380",
-            "aircraft_capacity": 575,
-            "type": "Aircraft",
-            "latitude": 51.513052,
-            "longitude": -0.474349
-        },
-        {
-            "aircraft_id": "AC005",
-            "purge_id": "P015",
-            "aircraft_type": "Boeing 787",
-            "aircraft_capacity": 242,
-            "type": "Aircraft",
-            "latitude": 51.473104,
-            "longitude": -0.463506
-        }
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Ras Al Khaimah International Airport",
+            "iata_code": "RKT",
+            "icao_code": "OMRK",
+            "is_24hrs": true,
+            "phone": "+971-7-207-5200",
+            "street": "RAK Airport Road",
+            "city": "Ras Al Khaimah",
+            "state": "Ras Al Khaimah",
+            "state_code": "RAK",
+            "zip_code": "00000",
+            "latitude": 25.6136,
+            "longitude": 55.9388,
+            "rating": "4.5",
+            "airport_id": "airport_001",
+            "services": ["Domestic Flights", "International Flights", "VIP Lounge", "Duty-Free Shopping", "Car Rentals", "Restaurants"],
+            "parking_available": true,
+            "distance_from_city_center_km": 20.0,
+            "language": "en",
+            "email": "info@rakairport.com",
+            "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
+          },
+          {
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Sharjah International Airport",
+            "iata_code": "SHJ",
+            "icao_code": "OMSJ",
+            "is_24hrs": true,
+            "phone": "+971-6-558-1111",
+            "street": "Sharjah Airport Road",
+            "city": "Sharjah",
+            "state": "Sharjah",
+            "state_code": "SHJ",
+            "zip_code": "00000",
+            "latitude": 25.3286,
+            "longitude": 55.5175,
+            "rating": "4.3",
+            "airport_id": "airport_002",
+            "services": ["Duty-Free", "VIP Lounge", "Car Rentals", "Shopping", "Restaurants"],
+            "parking_available": true,
+            "distance_from_city_center_km": 80.0,
+            "language": "en",
+            "email": "info@sharjahairport.ae",
+            "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
+          },
+          {
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Dubai International Airport",
+            "iata_code": "DXB",
+            "icao_code": "OMDB",
+            "is_24hrs": true,
+            "phone": "+971-4-224-5555",
+            "street": "Dubai Airport Road",
+            "city": "Dubai",
+            "state": "Dubai",
+            "state_code": "DXB",
+            "zip_code": "00000",
+            "latitude": 25.2532,
+            "longitude": 55.3657,
+            "rating": "4.8",
+            "airport_id": "airport_003",
+            "services": ["International Flights", "VIP Lounge", "Duty-Free Shopping", "Restaurants", "Hotels"],
+            "parking_available": true,
+            "distance_from_city_center_km": 100.0,
+            "language": "en",
+            "email": "info@dubaiairports.ae",
+            "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
+          },
+          {
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Al Maktoum International Airport",
+            "iata_code": "DWC",
+            "icao_code": "OMDW",
+            "is_24hrs": true,
+            "phone": "+971-4-814-1111",
+            "street": "Dubai South",
+            "city": "Dubai",
+            "state": "Dubai",
+            "state_code": "DWC",
+            "zip_code": "00000",
+            "latitude": 24.8928,
+            "longitude": 55.1604,
+            "rating": "4.4",
+            "airport_id": "airport_004",
+            "services": ["Cargo Flights", "International Flights", "VIP Lounge", "Car Rentals"],
+            "parking_available": true,
+            "distance_from_city_center_km": 130.0,
+            "language": "en",
+            "email": "info@dubaisouth.ae",
+            "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
+          },
+          {
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Fujairah International Airport",
+            "iata_code": "FJR",
+            "icao_code": "OMFJ",
+            "is_24hrs": true,
+            "phone": "+971-9-222-6222",
+            "street": "Fujairah Airport Road",
+            "city": "Fujairah",
+            "state": "Fujairah",
+            "state_code": "FJR",
+            "zip_code": "00000",
+            "latitude": 25.1122,
+            "longitude": 56.3243,
+            "rating": "4.1",
+            "airport_id": "airport_005",
+            "services": ["Domestic Flights", "Cargo Flights", "VIP Lounge"],
+            "parking_available": true,
+            "distance_from_city_center_km": 90.0,
+            "language": "en",
+            "email": "info@fujairahairport.ae",
+            "transportation_options": ["Taxi", "Bus", "Car Rental"]
+          },
+          {
+            "icon_url": "/svgs/Airports.svg",
+            "airport_name": "Abu Dhabi International Airport",
+            "iata_code": "AUH",
+            "icao_code": "OMAA",
+            "is_24hrs": true,
+            "phone": "+971-2-505-5555",
+            "street": "Abu Dhabi Airport Road",
+            "city": "Abu Dhabi",
+            "state": "Abu Dhabi",
+            "state_code": "AUH",
+            "zip_code": "00000",
+            "latitude": 24.4567,
+            "longitude": 54.3776,
+            "rating": "4.7",
+            "airport_id": "airport_006",
+            "services": ["International Flights", "VIP Lounge", "Duty-Free Shopping", "Car Rentals", "Hotels"],
+            "parking_available": true,
+            "distance_from_city_center_km": 240.0,
+            "language": "en",
+            "email": "info@abudhabiairports.ae",
+            "transportation_options": ["Taxi", "Bus", "Metro", "Car Rental"]
+          }
     ],
     "updated_stations": [
         {
