@@ -4649,7 +4649,7 @@
             "region": "RAK"
           },
           {
-            "icon_url": "/svgs/CardGame.svg",
+            "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 25.99,
             "city": "Ras Al Khaimah",
             "latitude": 25.7900,
@@ -4689,7 +4689,7 @@
             "region": "RAK"
           },
           {
-            "icon_url": "/svgs/Adventure.svg",
+            "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 59.99,
             "city": "Ras Al Khaimah",
             "latitude": 25.6800,
@@ -4709,7 +4709,7 @@
             "region": "RAK"
           },
           {
-            "icon_url": "/svgs/Fireworks.svg",
+            "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 99.99,
             "city": "Ras Al Khaimah",
             "latitude": 25.9000,
@@ -4729,7 +4729,7 @@
             "region": "RAK"
           },
           {
-            "icon_url": "/svgs/FoodFestival.svg",
+            "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 45.99,
             "city": "Ras Al Khaimah",
             "latitude": 25.7400,
@@ -4749,7 +4749,7 @@
             "region": "RAK"
           },
           {
-            "icon_url": "/svgs/CarShow.svg",
+            "icon_url": "/svgs/HatRetro.svg",
             "event_price": 79.99,
             "city": "Ras Al Khaimah",
             "latitude": 25.8800,
