@@ -17,33 +17,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/enoc.png",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.35,
-                    "credit_card_price": 2.40,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.65,
-                    "credit_card_price": 2.70,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.35,
+                        "credit_card_price": 2.40,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.65,
+                        "credit_card_price": 2.70,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ENOC - 1444",
                 "address": "15/2, Emirates Road, Suhailah, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -59,33 +59,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/enoc.png",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.35,
-                    "credit_card_price": 2.40,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.65,
-                    "credit_card_price": 2.70,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.35,
+                        "credit_card_price": 2.40,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.65,
+                        "credit_card_price": 2.70,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ENOC Petrol Station - 1401- AL Dheeb",
                 "address": "Shk Mohd Bin Salem Rd, E 11, Opp RAK Ceramic, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -101,33 +101,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/enoc.png",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.35,
-                    "credit_card_price": 2.40,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.65,
-                    "credit_card_price": 2.70,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.35,
+                        "credit_card_price": 2.40,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.65,
+                        "credit_card_price": 2.70,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ADNOC Service Station Al Hadeeqa (826)",
                 "address": "Al Hadeeqa, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -143,33 +143,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/adnoc.jpeg",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.45,
-                    "credit_card_price": 2.50,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.30,
-                    "credit_card_price": 2.35,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.60,
-                    "credit_card_price": 2.65,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.45,
-                    "credit_card_price": 2.50,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.45,
+                        "credit_card_price": 2.50,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.30,
+                        "credit_card_price": 2.35,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.60,
+                        "credit_card_price": 2.65,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.45,
+                        "credit_card_price": 2.50,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ADNOC Petrol Station Humaid 465",
                 "address": "9, 7E Street, Al Qussaidat, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -178,40 +178,40 @@
                 "hours": "24",
                 "comment": 20,
                 "latitude": 25.78724,
-                "longitude":55.96375,
+                "longitude": 55.96375,
                 "open": true,
                 "timing": "Open 24 hours",
                 "ratings": 4.5,
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/adnoc.jpeg",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.48,
-                    "credit_card_price": 2.53,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.32,
-                    "credit_card_price": 2.37,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.63,
-                    "credit_card_price": 2.68,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.48,
-                    "credit_card_price": 2.53,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.48,
+                        "credit_card_price": 2.53,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.32,
+                        "credit_card_price": 2.37,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.63,
+                        "credit_card_price": 2.68,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.48,
+                        "credit_card_price": 2.53,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "EPPCO Petrol Station Al Qusaidat",
                 "address": "Sheikh Mohammed Bin Salem Road, Al Qusaidat, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -227,33 +227,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/eppco.jpeg",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.48,
-                    "credit_card_price": 2.53,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.32,
-                    "credit_card_price": 2.37,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.63,
-                    "credit_card_price": 2.68,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.48,
-                    "credit_card_price": 2.53,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.48,
+                        "credit_card_price": 2.53,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.32,
+                        "credit_card_price": 2.37,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.63,
+                        "credit_card_price": 2.68,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.48,
+                        "credit_card_price": 2.53,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "EPPCO Petrol Station Al Nakheel",
                 "address": "Al Nakheel Road, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -269,33 +269,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/eppco.jpeg",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.49,
-                    "credit_card_price": 2.54,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.33,
-                    "credit_card_price": 2.38,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.64,
-                    "credit_card_price": 2.69,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.49,
-                    "credit_card_price": 2.54,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.49,
+                        "credit_card_price": 2.54,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.33,
+                        "credit_card_price": 2.38,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.64,
+                        "credit_card_price": 2.69,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.49,
+                        "credit_card_price": 2.54,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ENOC Petrol Station - Al Muntasir",
                 "address": "Al Muntasir Road, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -311,33 +311,33 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/enoc.png",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.35,
-                    "credit_card_price": 2.40,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.65,
-                    "credit_card_price": 2.70,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.50,
-                    "credit_card_price": 2.55,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.35,
+                        "credit_card_price": 2.40,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.65,
+                        "credit_card_price": 2.70,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.50,
+                        "credit_card_price": 2.55,
+                        "grade": 95
+                    }
                 ]
-              },
-              {
+            },
+            {
                 "name": "ADNOC Service Station Khuzam",
                 "address": "Khuzam Road, Ras Al Khaimah, UAE",
                 "state": "Ras Al Khaimah",
@@ -353,32 +353,32 @@
                 "payment_mode": "Cash, Credit Card",
                 "logo_url": "/images/adnoc.jpeg",
                 "products": [
-                  {
-                    "product_name": "Diesel Premium",
-                    "cash_price": 2.45,
-                    "credit_card_price": 2.50,
-                    "grade": "P"
-                  },
-                  {
-                    "product_name": "Diesel Regular",
-                    "cash_price": 2.30,
-                    "credit_card_price": 2.35,
-                    "grade": "R"
-                  },
-                  {
-                    "product_name": "Petrol Premium (Super 98)",
-                    "cash_price": 2.60,
-                    "credit_card_price": 2.65,
-                    "grade": 98
-                  },
-                  {
-                    "product_name": "Petrol Regular (Special 95)",
-                    "cash_price": 2.45,
-                    "credit_card_price": 2.50,
-                    "grade": 95
-                  }
+                    {
+                        "product_name": "Diesel Premium",
+                        "cash_price": 2.45,
+                        "credit_card_price": 2.50,
+                        "grade": "P"
+                    },
+                    {
+                        "product_name": "Diesel Regular",
+                        "cash_price": 2.30,
+                        "credit_card_price": 2.35,
+                        "grade": "R"
+                    },
+                    {
+                        "product_name": "Petrol Premium (Super 98)",
+                        "cash_price": 2.60,
+                        "credit_card_price": 2.65,
+                        "grade": 98
+                    },
+                    {
+                        "product_name": "Petrol Regular (Special 95)",
+                        "cash_price": 2.45,
+                        "credit_card_price": 2.50,
+                        "grade": 95
+                    }
                 ]
-              },
+            },
             {
                 "name": "Fastrip",
                 "address": "2200, Niles St Bakersfield, CA-93306",
@@ -4487,8 +4487,8 @@
             "state_code": "RAK",
             "event_start_date": "2025-03-15",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/images/iftar.png",
             "event_price": 149.00,
             "city": "Ras Al Khaimah",
@@ -4507,8 +4507,8 @@
             "state_code": "RAK",
             "event_start_date": "2025-03-17",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/images/sports.png",
             "event_price": 50.00,
             "city": "Ras Al Khaimah",
@@ -4527,8 +4527,8 @@
             "state_code": "RAK",
             "event_start_date": "2025-03-30",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/images/shopping-cart.png",
             "event_price": 0.00,
             "city": "Ras Al Khaimah",
@@ -4547,8 +4547,8 @@
             "state_code": "RAK",
             "event_start_date": "2025-03-18",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/NightClub.svg",
             "event_price": 49.99,
             "city": "Ras Al Khaimah",
@@ -4567,8 +4567,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-08-14",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/MicrophoneStage.svg",
             "event_price": 29.99,
             "city": "Ras Al Khaimah",
@@ -4587,8 +4587,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-10-03",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/HatRetro.svg",
             "event_price": 15.99,
             "city": "Ras Al Khaimah",
@@ -4607,8 +4607,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-11-19",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 99.99,
             "city": "Ras Al Khaimah",
@@ -4627,8 +4627,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-07-27",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 79.99,
             "city": "Ras Al Khaimah",
@@ -4647,8 +4647,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-12-09",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 25.99,
             "city": "Ras Al Khaimah",
@@ -4667,8 +4667,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-10-28",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 119.99,
             "city": "Ras Al Khaimah",
@@ -4687,8 +4687,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-11-17",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 59.99,
             "city": "Ras Al Khaimah",
@@ -4707,8 +4707,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-09-14",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/MusicConcert.svg",
             "event_price": 99.99,
             "city": "Ras Al Khaimah",
@@ -4727,8 +4727,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-12-31",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 45.99,
             "city": "Ras Al Khaimah",
@@ -4747,8 +4747,8 @@
             "state_code": "RAK",
             "event_start_date": "2024-09-19",
             "region": "RAK"
-          },
-          {
+        },
+        {
             "icon_url": "/svgs/HatRetro.svg",
             "event_price": 79.99,
             "city": "Ras Al Khaimah",
@@ -4767,7 +4767,7 @@
             "state_code": "RAK",
             "event_start_date": "2024-10-09",
             "region": "RAK"
-          },
+        },
         {
             "icon_url": "/svgs/CoffeeToGo.svg",
             "event_price": 19.99,
@@ -19595,8 +19595,8 @@
             "state_code": "RAK",
             "zip_code": "00001",
             "longitude": 55.9762
-          },
-          {
+        },
+        {
             "altitude": 20.0,
             "network_id": "202",
             "city": "Al Hamra",
@@ -19608,8 +19608,8 @@
             "state_code": "RAK",
             "zip_code": "00002",
             "longitude": 55.7754
-          },
-          {
+        },
+        {
             "altitude": 30.0,
             "network_id": "203",
             "city": "Umm Al Quwain",
@@ -19621,8 +19621,8 @@
             "state_code": "UAQ",
             "zip_code": "00003",
             "longitude": 55.5137
-          },
-          {
+        },
+        {
             "altitude": 10.0,
             "network_id": "204",
             "city": "Ajman",
@@ -19634,8 +19634,8 @@
             "state_code": "AJM",
             "zip_code": "00004",
             "longitude": 55.5136
-          },
-          {
+        },
+        {
             "altitude": 12.0,
             "network_id": "205",
             "city": "Sharjah",
@@ -19647,8 +19647,8 @@
             "state_code": "SHJ",
             "zip_code": "00005",
             "longitude": 55.4209
-          },
-          {
+        },
+        {
             "altitude": 8.0,
             "network_id": "206",
             "city": "Dubai",
@@ -19660,8 +19660,8 @@
             "state_code": "DXB",
             "zip_code": "00006",
             "longitude": 55.296249
-          },
-          {
+        },
+        {
             "altitude": 25.0,
             "network_id": "207",
             "city": "Fujairah",
@@ -19673,8 +19673,8 @@
             "state_code": "FUJ",
             "zip_code": "00007",
             "longitude": 56.3265
-          },
-          {
+        },
+        {
             "altitude": 35.0,
             "network_id": "208",
             "city": "Dibba Al-Fujairah",
@@ -19686,7 +19686,7 @@
             "state_code": "FUJ",
             "zip_code": "00008",
             "longitude": 56.2618
-          },
+        },
         {
             "altitude": 95.0,
             "network_id": "16",
@@ -25872,9 +25872,9 @@
             "rating": "4.5",
             "store_id": "pharmacy_1001",
             "services": [
-              "Prescription Medicines",
-              "Health Supplements",
-              "Personal Care Products"
+                "Prescription Medicines",
+                "Health Supplements",
+                "Personal Care Products"
             ],
             "delivery_available": true,
             "distance_from_city_center_km": 3.5,
@@ -25883,8 +25883,8 @@
             "established_year": 2012,
             "area_landmark": "Near RAK Mall",
             "email": "info@almanarapharmacy.com"
-          },
-          {
+        },
+        {
             "icon_url": "/images/pharmacyLogo.png",
             "store_name": "Bin Sina Pharmacy",
             "brand_name": "Bin Sina",
@@ -25902,9 +25902,9 @@
             "rating": "4.3",
             "store_id": "pharmacy_1002",
             "services": [
-              "Prescription Medicines",
-              "Baby Care Products",
-              "Skincare & Beauty"
+                "Prescription Medicines",
+                "Baby Care Products",
+                "Skincare & Beauty"
             ],
             "delivery_available": false,
             "distance_from_city_center_km": 5.2,
@@ -25913,8 +25913,8 @@
             "established_year": 2008,
             "area_landmark": "Opposite Al Naeem Mall",
             "email": "support@binsinapharmacy.com"
-          },
-          {
+        },
+        {
             "icon_url": "/images/pharmacyLogo.png",
             "store_name": "Aster Pharmacy",
             "brand_name": "Aster",
@@ -25932,9 +25932,9 @@
             "rating": "4.7",
             "store_id": "pharmacy_1003",
             "services": [
-              "Prescription Medicines",
-              "Vaccination Services",
-              "Health Supplements"
+                "Prescription Medicines",
+                "Vaccination Services",
+                "Health Supplements"
             ],
             "delivery_available": true,
             "distance_from_city_center_km": 12.0,
@@ -25943,8 +25943,8 @@
             "established_year": 2015,
             "area_landmark": "Near Al Hamra Mall",
             "email": "contact@asterpharmacy.com"
-          },
-          {
+        },
+        {
             "icon_url": "/images/pharmacyLogo.png",
             "store_name": "Life Pharmacy",
             "brand_name": "Life",
@@ -25962,9 +25962,9 @@
             "rating": "4.6",
             "store_id": "pharmacy_1004",
             "services": [
-              "Prescription Medicines",
-              "Medical Equipment",
-              "Herbal Medicines"
+                "Prescription Medicines",
+                "Medical Equipment",
+                "Herbal Medicines"
             ],
             "delivery_available": true,
             "distance_from_city_center_km": 18.5,
@@ -25973,8 +25973,8 @@
             "established_year": 2013,
             "area_landmark": "Opposite Lulu Hypermarket",
             "email": "support@lifepharmacy.com"
-          },
-          {
+        },
+        {
             "icon_url": "/images/pharmacyLogo.png",
             "store_name": "Medcare Pharmacy",
             "brand_name": "Medcare",
@@ -25992,9 +25992,9 @@
             "rating": "4.4",
             "store_id": "pharmacy_1005",
             "services": [
-              "Prescription Medicines",
-              "Diabetes Care",
-              "Home Healthcare Products"
+                "Prescription Medicines",
+                "Diabetes Care",
+                "Home Healthcare Products"
             ],
             "delivery_available": false,
             "distance_from_city_center_km": 22.0,
@@ -26003,7 +26003,7 @@
             "established_year": 2007,
             "area_landmark": "Next to Ajman City Centre",
             "email": "info@medcarepharmacy.com"
-          },
+        },
         {
             "icon_url": "/images/pharmacyLogo.png",
             "store_name": "Life Pharmacy - Al Muntasir Road",
@@ -26878,9 +26878,9 @@
             "rating": "4.8",
             "store_id": "mosque_001",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Islamic Lectures"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Islamic Lectures"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -26890,12 +26890,12 @@
             "email": "N/A",
             "established_year": 1777,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Mohammed Bin Salem Mosque",
             "owner_name": "N/A",
@@ -26913,9 +26913,9 @@
             "rating": "4.7",
             "store_id": "mosque_002",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Quran Classes"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Quran Classes"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -26925,12 +26925,12 @@
             "email": "N/A",
             "established_year": 1800,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Al Jazirah Al Hamra Mosque",
             "owner_name": "N/A",
@@ -26948,8 +26948,8 @@
             "rating": "4.6",
             "store_id": "mosque_003",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons"
+                "Daily Prayers",
+                "Friday Sermons"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -26959,12 +26959,12 @@
             "email": "N/A",
             "established_year": 1900,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Al Qawasim Mosque",
             "owner_name": "N/A",
@@ -26982,9 +26982,9 @@
             "rating": "4.5",
             "store_id": "mosque_004",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Community Events"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Community Events"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -26994,12 +26994,12 @@
             "email": "N/A",
             "established_year": 1980,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Ibrahim Bin Hamad Mosque",
             "owner_name": "N/A",
@@ -27017,8 +27017,8 @@
             "rating": "4.4",
             "store_id": "mosque_005",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons"
+                "Daily Prayers",
+                "Friday Sermons"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -27028,11 +27028,12 @@
             "email": "N/A",
             "established_year": 1950,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },{
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Al Sawan Mosque",
             "owner_name": "N/A",
@@ -27050,9 +27051,9 @@
             "rating": "4.3",
             "store_id": "mosque_006",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Islamic Study Circles"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Islamic Study Circles"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -27062,12 +27063,12 @@
             "email": "N/A",
             "established_year": 1975,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Al Dhait Mosque",
             "owner_name": "N/A",
@@ -27085,9 +27086,9 @@
             "rating": "4.6",
             "store_id": "mosque_007",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Quran Recitation Classes"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Quran Recitation Classes"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -27097,12 +27098,12 @@
             "email": "N/A",
             "established_year": 1990,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          },
-          {
+        },
+        {
             "icon_url": "/images/mosque.png",
             "store_name": "Al Mamoorah Mosque",
             "owner_name": "N/A",
@@ -27120,9 +27121,9 @@
             "rating": "4.7",
             "store_id": "mosque_008",
             "services": [
-              "Daily Prayers",
-              "Friday Sermons",
-              "Community Services"
+                "Daily Prayers",
+                "Friday Sermons",
+                "Community Services"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -27132,12 +27133,11 @@
             "email": "N/A",
             "established_year": 1985,
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": []
-          }
-,        
+        },
         {
             "icon_url": "/images/kiranaStoreLogo.png",
             "store_name": "Patel Kirana Store",
@@ -28086,14 +28086,25 @@
             "longitude": 55.9388,
             "rating": "4.5",
             "airport_id": "airport_001",
-            "services": ["Domestic Flights", "International Flights", "VIP Lounge", "Duty-Free Shopping", "Car Rentals", "Restaurants"],
+            "services": [
+                "Domestic Flights",
+                "International Flights",
+                "VIP Lounge",
+                "Duty-Free Shopping",
+                "Car Rentals",
+                "Restaurants"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 20.0,
             "language": "en",
             "email": "info@rakairport.com",
-            "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
-          },
-          {
+            "transportation_options": [
+                "Taxi",
+                "Car Rental",
+                "Shuttle Bus"
+            ]
+        },
+        {
             "type": "Aircraft",
             "aircraft_type": "International Airport",
             "icon_url": "/images/airportLogo.png",
@@ -28111,14 +28122,25 @@
             "longitude": 55.5175,
             "rating": "4.3",
             "airport_id": "airport_002",
-            "services": ["Duty-Free", "VIP Lounge", "Car Rentals", "Shopping", "Restaurants"],
+            "services": [
+                "Duty-Free",
+                "VIP Lounge",
+                "Car Rentals",
+                "Shopping",
+                "Restaurants"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 80.0,
             "language": "en",
             "email": "info@sharjahairport.ae",
-            "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
-          },
-          {
+            "transportation_options": [
+                "Metro",
+                "Taxi",
+                "Bus",
+                "Car Rental"
+            ]
+        },
+        {
             "type": "Aircraft",
             "aircraft_type": "International Airport",
             "icon_url": "/images/airportLogo.png",
@@ -28136,14 +28158,25 @@
             "longitude": 55.3657,
             "rating": "4.8",
             "airport_id": "airport_003",
-            "services": ["International Flights", "VIP Lounge", "Duty-Free Shopping", "Restaurants", "Hotels"],
+            "services": [
+                "International Flights",
+                "VIP Lounge",
+                "Duty-Free Shopping",
+                "Restaurants",
+                "Hotels"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 100.0,
             "language": "en",
             "email": "info@dubaiairports.ae",
-            "transportation_options": ["Metro", "Taxi", "Bus", "Car Rental"]
-          },
-          {
+            "transportation_options": [
+                "Metro",
+                "Taxi",
+                "Bus",
+                "Car Rental"
+            ]
+        },
+        {
             "type": "Aircraft",
             "aircraft_type": "International Airport",
             "icon_url": "/images/airportLogo.png",
@@ -28161,14 +28194,23 @@
             "longitude": 55.1604,
             "rating": "4.4",
             "airport_id": "airport_004",
-            "services": ["Cargo Flights", "International Flights", "VIP Lounge", "Car Rentals"],
+            "services": [
+                "Cargo Flights",
+                "International Flights",
+                "VIP Lounge",
+                "Car Rentals"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 130.0,
             "language": "en",
             "email": "info@dubaisouth.ae",
-            "transportation_options": ["Taxi", "Car Rental", "Shuttle Bus"]
-          },
-          {
+            "transportation_options": [
+                "Taxi",
+                "Car Rental",
+                "Shuttle Bus"
+            ]
+        },
+        {
             "type": "Aircraft",
             "aircraft_type": "International Airport",
             "icon_url": "/images/airportLogo.png",
@@ -28186,14 +28228,22 @@
             "longitude": 56.3243,
             "rating": "4.1",
             "airport_id": "airport_005",
-            "services": ["Domestic Flights", "Cargo Flights", "VIP Lounge"],
+            "services": [
+                "Domestic Flights",
+                "Cargo Flights",
+                "VIP Lounge"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 90.0,
             "language": "en",
             "email": "info@fujairahairport.ae",
-            "transportation_options": ["Taxi", "Bus", "Car Rental"]
-          },
-          {
+            "transportation_options": [
+                "Taxi",
+                "Bus",
+                "Car Rental"
+            ]
+        },
+        {
             "type": "Aircraft",
             "aircraft_type": "International Airport",
             "icon_url": "/images/airportLogo.png",
@@ -28211,13 +28261,24 @@
             "longitude": 54.3776,
             "rating": "4.7",
             "airport_id": "airport_006",
-            "services": ["International Flights", "VIP Lounge", "Duty-Free Shopping", "Car Rentals", "Hotels"],
+            "services": [
+                "International Flights",
+                "VIP Lounge",
+                "Duty-Free Shopping",
+                "Car Rentals",
+                "Hotels"
+            ],
             "parking_available": true,
             "distance_from_city_center_km": 240.0,
             "language": "en",
             "email": "info@abudhabiairports.ae",
-            "transportation_options": ["Taxi", "Bus", "Metro", "Car Rental"]
-          }
+            "transportation_options": [
+                "Taxi",
+                "Bus",
+                "Metro",
+                "Car Rental"
+            ]
+        }
     ],
     "updated_stations": [
         {
@@ -32177,9 +32238,9 @@
             "language": "gu"
         }
     ],
-    "tourist_places":[
+    "tourist_places": [
         {
-            "icon_url": "/images/jebel_jais.png",
+            "icon_url": "/images/jebel_jais.jpeg",
             "store_name": "Jebel Jais",
             "owner_name": "N/A",
             "open_time": "06:00",
@@ -32196,9 +32257,9 @@
             "rating": "4.8",
             "store_id": "attraction_001",
             "services": [
-              "Hiking",
-              "Camping",
-              "World's Longest Zipline"
+                "Hiking",
+                "Camping",
+                "World's Longest Zipline"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32208,15 +32269,15 @@
             "email": "info@visitjebeljais.com",
             "established_year": "N/A",
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Jebel Jais is the highest peak in the UAE, offering breathtaking views, thrilling adventures like the world's longest zipline, and cooler temperatures."
-          },
-          {
-            "icon_url": "/images/dhayah_fort.png",
+        },
+        {
+            "icon_url": "/images/dhayah_fort.jpeg",
             "store_name": "Dhayah Fort",
             "owner_name": "N/A",
             "open_time": "09:00",
@@ -32233,9 +32294,9 @@
             "rating": "4.5",
             "store_id": "attraction_002",
             "services": [
-              "Historical Site",
-              "Photography",
-              "Sightseeing"
+                "Historical Site",
+                "Photography",
+                "Sightseeing"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32245,14 +32306,14 @@
             "email": "N/A",
             "established_year": "18th Century",
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Dhayah Fort is a historic 18th-century mud-brick fortification that played a significant role in the UAE's history, offering panoramic views of the surrounding area."
-          },
-          {
-            "icon_url": "/images/khatt_springs.png",
+        },
+        {
+            "icon_url": "/images/khatt_springs.jpeg",
             "store_name": "Khatt Springs",
             "owner_name": "N/A",
             "open_time": "08:00",
@@ -32269,9 +32330,9 @@
             "rating": "4.2",
             "store_id": "attraction_003",
             "services": [
-              "Hot Springs",
-              "Spa Treatments",
-              "Wellness"
+                "Hot Springs",
+                "Spa Treatments",
+                "Wellness"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32281,15 +32342,15 @@
             "email": "info@khattsparesort.com",
             "established_year": "N/A",
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Khatt Springs is renowned for its therapeutic hot springs rich in minerals, set amidst a lush oasis and majestic mountains."
-          },
-          {
-            "icon_url": "/images/al_marjan_island.png",
+        },
+        {
+            "icon_url": "/images/al_marjan.jpeg",
             "store_name": "Al Marjan Island",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32306,9 +32367,9 @@
             "rating": "4.6",
             "store_id": "attraction_004",
             "services": [
-              "Beaches",
-              "Resorts",
-              "Water Sports"
+                "Beaches",
+                "Resorts",
+                "Water Sports"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32318,14 +32379,15 @@
             "email": "info@almarjanisland.com",
             "established_year": "2013",
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Al Marjan Island is a man-made archipelago known for its pristine beaches, luxury resorts, and a variety of water sports activities."
-          },{
-            "icon_url": "/images/al_jazirah_al_hamra.png",
+        },
+        {
+            "icon_url": "/images/al_jazirah_al_hamra.jpeg",
             "store_name": "Al Jazirah Al Hamra",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32342,9 +32404,9 @@
             "rating": "4.3",
             "store_id": "attraction_005",
             "services": [
-              "Historical Site",
-              "Photography",
-              "Sightseeing"
+                "Historical Site",
+                "Photography",
+                "Sightseeing"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32354,14 +32416,14 @@
             "email": "N/A",
             "established_year": "14th Century",
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Al Jazirah Al Hamra is an abandoned pearling village that offers a glimpse into traditional Emirati life before the oil boom, with well-preserved coral-stone houses and mosques."
-          },
-          {
-            "icon_url": "/images/shimal.png",
+        },
+        {
+            "icon_url": "/images/shimal.jpeg",
             "store_name": "Shimal",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32378,9 +32440,9 @@
             "rating": "4.2",
             "store_id": "attraction_006",
             "services": [
-              "Archaeological Site",
-              "Photography",
-              "Sightseeing"
+                "Archaeological Site",
+                "Photography",
+                "Sightseeing"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32390,14 +32452,14 @@
             "email": "N/A",
             "established_year": "2000 BCE",
             "payment_methods": [
-              "Donations"
+                "Donations"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Shimal is an important archaeological site featuring pre-Islamic tombs and settlements, providing insights into the region's ancient history."
-          },
-          {
-            "icon_url": "/images/suwaidi_pearls_farm.png",
+        },
+        {
+            "icon_url": "/images/suwaidi_pearls.jpeg",
             "store_name": "Suwaidi Pearls Farm",
             "owner_name": "Abdulla Al Suwaidi",
             "open_time": "09:00",
@@ -32414,9 +32476,9 @@
             "rating": "4.7",
             "store_id": "attraction_007",
             "services": [
-              "Pearl Farming Tours",
-              "Cultural Experience",
-              "Boat Rides"
+                "Pearl Farming Tours",
+                "Cultural Experience",
+                "Boat Rides"
             ],
             "delivery_available": false,
             "accepts_online_payments": true,
@@ -32426,15 +32488,15 @@
             "email": "info@suwaidipearls.com",
             "established_year": 2005,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Suwaidi Pearls Farm offers guided tours showcasing the UAE's rich pearling history, allowing visitors to learn about traditional pearl cultivation methods."
-          },
-          {
-            "icon_url": "/images/ice_land_water_park.png",
+        },
+        {
+            "icon_url": "/images/iceland_water_park.jpeg",
             "store_name": "Ice Land Water Park",
             "owner_name": "N/A",
             "open_time": "10:00",
@@ -32451,9 +32513,9 @@
             "rating": "4.1",
             "store_id": "attraction_008",
             "services": [
-              "Water Slides",
-              "Wave Pool",
-              "Kids' Play Area"
+                "Water Slides",
+                "Wave Pool",
+                "Kids' Play Area"
             ],
             "delivery_available": false,
             "accepts_online_payments": true,
@@ -32463,14 +32525,15 @@
             "email": "info@icelandwaterpark.com",
             "established_year": 2010,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Ice Land Water Park is a family-friendly destination featuring a variety of water attractions, including slides, a wave pool, and play areas for children."
-          },{
-            "icon_url": "/images/rak_zoo.png",
+        },
+        {
+            "icon_url": "/images/rak_zoo.jpeg",
             "store_name": "RAK Zoo",
             "owner_name": "N/A",
             "open_time": "09:00",
@@ -32487,9 +32550,9 @@
             "rating": "4.0",
             "store_id": "attraction_009",
             "services": [
-              "Wildlife Viewing",
-              "Educational Programs",
-              "Children's Play Area"
+                "Wildlife Viewing",
+                "Educational Programs",
+                "Children's Play Area"
             ],
             "delivery_available": false,
             "accepts_online_payments": true,
@@ -32499,15 +32562,15 @@
             "email": "info@rakzoo.com",
             "established_year": 2014,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "RAK Zoo is home to a variety of animal species, offering visitors the chance to observe wildlife and participate in educational programs."
-          },
-          {
-            "icon_url": "/images/al_hamra_mall.png",
+        },
+        {
+            "icon_url": "/images/al_hamra_mall.jprg",
             "store_name": "Al Hamra Mall",
             "owner_name": "Al Hamra Group",
             "open_time": "10:00",
@@ -32524,9 +32587,9 @@
             "rating": "4.2",
             "store_id": "attraction_010",
             "services": [
-              "Shopping",
-              "Dining",
-              "Entertainment"
+                "Shopping",
+                "Dining",
+                "Entertainment"
             ],
             "delivery_available": false,
             "accepts_online_payments": true,
@@ -32536,15 +32599,15 @@
             "email": "info@alhamramall.com",
             "established_year": 2009,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Al Hamra Mall offers a variety of retail outlets, dining options, and entertainment facilities, making it a popular shopping destination."
-          },
-          {
-            "icon_url": "/images/manar_mall.png",
+        },
+        {
+            "icon_url": "/images/manar_mall.jpeg",
             "store_name": "Manar Mall",
             "owner_name": "Al Hamra Group",
             "open_time": "10:00",
@@ -32561,9 +32624,9 @@
             "rating": "4.3",
             "store_id": "attraction_011",
             "services": [
-              "Shopping",
-              "Dining",
-              "Entertainment"
+                "Shopping",
+                "Dining",
+                "Entertainment"
             ],
             "delivery_available": false,
             "accepts_online_payments": true,
@@ -32573,15 +32636,15 @@
             "email": "info@manarmall.com",
             "established_year": 2000,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Manar Mall is a premier shopping destination featuring a wide range of retail stores, dining outlets, and entertainment options."
-          },
-          {
-            "icon_url": "/images/al_qawasim_corniche.png",
+        },
+        {
+            "icon_url": "/images/al_qawasim_corniche.jpeg",
             "store_name": "Al Qawasim Corniche",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32598,9 +32661,9 @@
             "rating": "4.5",
             "store_id": "attraction_012",
             "services": [
-              "Walking",
-              "Dining",
-              "Recreational Activities"
+                "Walking",
+                "Dining",
+                "Recreational Activities"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32610,13 +32673,14 @@
             "email": "N/A",
             "established_year": 2010,
             "payment_methods": [
-              "N/A"
+                "N/A"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Al Qawasim Corniche is a scenic waterfront promenade offering walking paths, dining options, and recreational activities with views of the mangroves."
-          },{
-            "icon_url": "/images/ras_al_khaimah_national_museum.png",
+        },
+        {
+            "icon_url": "/images/rak_national_museum.jpeg",
             "store_name": "Ras Al Khaimah National Museum",
             "owner_name": "N/A",
             "open_time": "08:00",
@@ -32633,8 +32697,8 @@
             "rating": "4.5",
             "store_id": "attraction_013",
             "services": [
-              "Museum Tours",
-              "Cultural Exhibitions"
+                "Museum Tours",
+                "Cultural Exhibitions"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32644,85 +32708,15 @@
             "email": "info@rakmuseum.gov.ae",
             "established_year": 1986,
             "payment_methods": [
-              "Cash",
-              "Credit/Debit Cards"
+                "Cash",
+                "Credit/Debit Cards"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "Housed in a historic fort, the museum showcases archaeological and historical artifacts, offering insights into the emirate's rich heritage."
-          },
-          {
-            "icon_url": "/images/al_jazirah_al_hamra.png",
-            "store_name": "Al Jazirah Al Hamra",
-            "owner_name": "N/A",
-            "open_time": "00:00",
-            "close_time": "23:59",
-            "is_24hrs": true,
-            "phone": "+971-7-233-8998",
-            "street": "Al Jazirah Al Hamra",
-            "city": "Ras Al Khaimah",
-            "state": "Ras Al Khaimah",
-            "state_code": "RAK",
-            "zip_code": "N/A",
-            "latitude": 25.6697,
-            "longitude": 55.7757,
-            "rating": "4.3",
-            "store_id": "attraction_014",
-            "services": [
-              "Historical Site Tours",
-              "Photography"
-            ],
-            "delivery_available": false,
-            "accepts_online_payments": false,
-            "distance_from_city_center_km": 20,
-            "language": "en",
-            "area_landmark": "Near Al Hamra Village",
-            "email": "N/A",
-            "established_year": 1830,
-            "payment_methods": [
-              "N/A"
-            ],
-            "parking_available": true,
-            "seasonal_offers": [],
-            "description": "An abandoned pearling village that offers a glimpse into traditional Emirati architecture and lifestyle before the oil boom."
-          },
-          {
-            "icon_url": "/images/dhayah_fort.png",
-            "store_name": "Dhayah Fort",
-            "owner_name": "N/A",
-            "open_time": "09:00",
-            "close_time": "17:00",
-            "is_24hrs": false,
-            "phone": "+971-7-266-8555",
-            "street": "Dhayah",
-            "city": "Ras Al Khaimah",
-            "state": "Ras Al Khaimah",
-            "state_code": "RAK",
-            "zip_code": "N/A",
-            "latitude": 25.8343,
-            "longitude": 56.0652,
-            "rating": "4.6",
-            "store_id": "attraction_015",
-            "services": [
-              "Historical Tours",
-              "Photography"
-            ],
-            "delivery_available": false,
-            "accepts_online_payments": false,
-            "distance_from_city_center_km": 18,
-            "language": "en",
-            "area_landmark": "Near Shimal",
-            "email": "N/A",
-            "established_year": "16th Century",
-            "payment_methods": [
-              "N/A"
-            ],
-            "parking_available": true,
-            "seasonal_offers": [],
-            "description": "The highest hilltop fort in the UAE, offering panoramic views and a rich history as the last outpost of resistance to the British in 1819."
-          },
-          {
-            "icon_url": "/images/wadi_shawka.png",
+        },
+        {
+            "icon_url": "/images/wadi_shawka.jpeg",
             "store_name": "Wadi Shawka",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32739,9 +32733,9 @@
             "rating": "4.7",
             "store_id": "attraction_016",
             "services": [
-              "Hiking",
-              "Picnicking",
-              "Nature Walks"
+                "Hiking",
+                "Picnicking",
+                "Nature Walks"
             ],
             "delivery_available": false,
             "accepts_online_payments": false,
@@ -32751,11 +32745,11 @@
             "email": "N/A",
             "established_year": "N/A",
             "payment_methods": [
-              "N/A"
+                "N/A"
             ],
             "parking_available": true,
             "seasonal_offers": [],
             "description": "A popular spot for hiking and picnicking, featuring natural pools, scenic trails, and the Shawka Dam."
-          }
+        }
     ]
 }
