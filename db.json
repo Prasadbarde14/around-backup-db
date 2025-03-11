@@ -32252,8 +32252,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.9535,
-            "longitude": 56.1839,
+            "latitude": 25.94383,
+            "longitude": 56.14296,
             "rating": "4.8",
             "store_id": "attraction_001",
             "services": [
@@ -32289,8 +32289,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.8456,
-            "longitude": 56.0642,
+            "latitude": 25.88450,
+            "longitude": 56.06052,
             "rating": "4.5",
             "store_id": "attraction_002",
             "services": [
@@ -32325,8 +32325,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6110,
-            "longitude": 56.0071,
+            "latitude": 25.61748,
+            "longitude": 56.01145,
             "rating": "4.2",
             "store_id": "attraction_003",
             "services": [
@@ -32362,8 +32362,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6697,
-            "longitude": 55.7296,
+            "latitude": 25.67275,
+            "longitude": 55.74186,
             "rating": "4.6",
             "store_id": "attraction_004",
             "services": [
@@ -32399,8 +32399,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6697,
-            "longitude": 55.7296,
+            "latitude": 25.70712,
+            "longitude": 55.80243,
             "rating": "4.3",
             "store_id": "attraction_005",
             "services": [
@@ -32435,8 +32435,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.8456,
-            "longitude": 56.0642,
+            "latitude": 25.82291,
+            "longitude": 56.05612,
             "rating": "4.2",
             "store_id": "attraction_006",
             "services": [
@@ -32471,8 +32471,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.8900,
-            "longitude": 56.0450,
+            "latitude": 25.88260,
+            "longitude": 56.02601,
             "rating": "4.7",
             "store_id": "attraction_007",
             "services": [
@@ -32508,8 +32508,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6745,
-            "longitude": 55.7203,
+            "latitude": 25.58963,
+            "longitude": 55.66044,
             "rating": "4.1",
             "store_id": "attraction_008",
             "services": [
@@ -32545,8 +32545,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6135,
-            "longitude": 55.9388,
+            "latitude": 25.65609,
+            "longitude": 55.96429,
             "rating": "4.0",
             "store_id": "attraction_009",
             "services": [
@@ -32570,7 +32570,7 @@
             "description": "RAK Zoo is home to a variety of animal species, offering visitors the chance to observe wildlife and participate in educational programs."
         },
         {
-            "icon_url": "/images/al_hamra_mall.jprg",
+            "icon_url": "/images/al_hamra_mall.jpeg",
             "store_name": "Al Hamra Mall",
             "owner_name": "Al Hamra Group",
             "open_time": "10:00",
@@ -32582,8 +32582,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.6745,
-            "longitude": 55.7203,
+            "latitude": 25.68317,
+            "longitude": 55.78205,
             "rating": "4.2",
             "store_id": "attraction_010",
             "services": [
@@ -32619,8 +32619,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.7895,
-            "longitude": 55.9432,
+            "latitude": 25.78378,
+            "longitude": 55.96607,
             "rating": "4.3",
             "store_id": "attraction_011",
             "services": [
@@ -32656,8 +32656,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.7895,
-            "longitude": 55.9432,
+            "latitude": 25.79128,
+            "longitude": 55.95185,
             "rating": "4.5",
             "store_id": "attraction_012",
             "services": [
@@ -32692,8 +32692,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.7895,
-            "longitude": 55.9432,
+            "latitude": 25.79479,
+            "longitude": 55.94467,
             "rating": "4.5",
             "store_id": "attraction_013",
             "services": [
@@ -32716,7 +32716,7 @@
             "description": "Housed in a historic fort, the museum showcases archaeological and historical artifacts, offering insights into the emirate's rich heritage."
         },
         {
-            "icon_url": "/images/wadi_shawka.jpg",
+            "icon_url": "/images/wadi_shawka.jpeg",
             "store_name": "Wadi Shawka",
             "owner_name": "N/A",
             "open_time": "00:00",
@@ -32728,8 +32728,8 @@
             "state": "Ras Al Khaimah",
             "state_code": "RAK",
             "zip_code": "N/A",
-            "latitude": 25.1304,
-            "longitude": 56.0421,
+            "latitude": 25.10438,
+            "longitude": 56.04718,
             "rating": "4.7",
             "store_id": "attraction_016",
             "services": [
