@@ -32245,7 +32245,7 @@
             "owner_name": "N/A",
             "open_time": "06:00",
             "close_time": "18:00",
-            "is_24hrs": true,
+            "is_24hrs": false,
             "phone": "+971-7-204-6250",
             "street": "Jebel Jais Mountain Road",
             "city": "Ras Al Khaimah",
